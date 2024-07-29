@@ -1,1 +1,1 @@
-# Mask_Detection
+Development and results of a Convolutional Neural Network (CNN) model designed to detect whether individuals in images are wearing masks. The model leverages TensorFlow and Keras libraries for implementation, with data split into training and testing sets for model training and evaluation. The dataset comprises images of people wearing masks and people not wearing masks 
